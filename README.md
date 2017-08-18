@@ -3,7 +3,7 @@ pyUPNPclient
 
 Example UPNP client written in Python.
 
-**NOT FOR PRODUCTION USE**: Check [flyte/pyupnpclient](https://github.com/flyte/pyupnpclient) for a
+**NOT FOR PRODUCTION USE**: Check [flyte/upnpclient](https://github.com/flyte/upnpclient) for a
 more mature fork of this project.
 
 This code was written for
